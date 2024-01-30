@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T01:18:37.339Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KFbouAp4OCJvQ-cPyH33" version="23.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-30T01:20:49.934Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XZlAkZWt3-exn6AKTrH2" version="23.0.2" type="github" pages="5">
   <diagram name="SINIS" id="41HmPV5QtXKCP-y7Z09l">
     <mxGraphModel dx="1100" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w8LoXrXfBHKts3w-bQ3W-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w8LoXrXfBHKts3w-bQ3W-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
